@@ -1,0 +1,213 @@
+codigo,nome,curso,ano,idade,sexo,media
+20251341,Paulo Manuel,Engenharia Informatica,3,25,F,11.9
+20250815,Sonia Jose,Engenharia Mecanica,3,23,M,13.4
+20251300,Bento Augusto,Engenharia Telecomunicacoes,1,19,F,14.3
+20258860,Ana Alberto,Engenharia de Redes,2,17,M,11.3
+20259539,Ana Bila,Engenharia Civil,1,17,F,14.6
+20250372,Zita Sitoe,Engenharia Electronica,1,18,F,6.8
+20257659,Luisa Carlos,Engenharia Informatica,4,28,F,17.6
+20259168,Teresa Augusto,Engenharia Mecanica,1,23,F,10.3
+20256549,Bento Machava,Engenharia de Redes,3,18,F,12.6
+20256343,Isabel Chissano,Engenharia Mecanica,4,22,F,12.5
+20257250,Eduardo Carlos,Engenharia Telecomunicacoes,1,19,M,14.5
+20258189,Rui Machava,Engenharia Electronica,3,23,F,8.0
+20256201,Graca Chissano,Engenharia Telecomunicacoes,2,20,F,17.9
+20254385,Nelson Carlos,Engenharia de Redes,1,23,F,16.8
+20258589,Nelson Tembe,Engenharia Mecanica,2,24,M,11.4
+20256343,Isabel Chissano,Engenharia Mecanica,4,22,F,12.5
+20257044,Tomas Nhaca,Engenharia de Redes,3,20,M,11.3
+20253016,Neusa Uamusse,Engenharia Electronica,4,24,F,14.8
+20252083,Fatima Manuel,Engenharia Civil,2,17,M,8.5
+20253939,Neusa Matsinhe,Engenharia Electronica,4,26,M,6.7
+20258256,Amelia Machava,Engenharia Informatica,3,17,M,20
+20256604,Nelson Machava,Engenharia Mecanica,1,17,F,7.2
+20259995,,Engenharia Civil,2,20,F,11.0
+20251118,Orlando Chissano,Engenharia Electronica,4,19,F,14.2
+20259727,Eduardo Paulo,Engenharia Informatica,4,23,M,11.9
+20257682,Orlando Mabunda,Engenharia Informatica,3,23,M,14.3
+20257501,Nelson Chissano,Engenharia Informatica,2,24,M,15.6
+20257612,Ana Machava,Engenharia Mecanica,1,22,M,12.9
+20253866,Helena Mario,Engenharia Mecanica,1,18,F,20
+20251209,Marta Cossa,Engenharia Informatica,2,28,M,15.1
+20251972,Amelia Armando,Engenharia Telecomunicacoes,4,29,M,12.7
+20251451,Graca Nhaca,Engenharia Civil,3,22,F,14.3
+20252640,Isabel Bila,Engenharia Electronica,4,23,F,16.8
+20255911,Isabel Manuel,Engenharia Mecanica,4,25,F,7.0
+20251486,Sonia Paulo,Engenharia Telecomunicacoes,4,27,F,11.8
+20251280,Bento Paulo,Engenharia Mecanica,1,23,F,14.6
+20254524,Nelson Carlos,Engenharia Electronica,1,18,F,11.2
+20255080,Celeste Bila,Engenharia Telecomunicacoes,2,20,M,15.6
+20250037,Carlos Jose,Engenharia Telecomunicacoes,1,21,M,11.8
+20258970,Amelia Bila,Engenharia Informatica,4,27,F,14.0
+20255487,Neusa Armando,Engenharia de Redes,3,25,F,15.7
+20252595,Teresa Muianga,Engenharia Informatica,4,28,F,9.1
+20251520,Eduardo Bila,Engenharia Informatica,2,21,F,14.5
+20254069,Teresa Chissano,Engenharia Electronica,3,26,F,8.9
+20259163,Graca Machava,Engenharia Telecomunicacoes,1,26,M,14.8
+20257616,Isabel Augusto,Engenharia Electronica,1,18,F,14.7
+20256066,Samuel Langa,Engenharia Telecomunicacoes,3,25,M,11.2
+20259963,Bento Paulo,Engenharia Informatica,1,25,F,15.0
+20253652,Paulo Jose,Engenharia de Redes,4,27,M,6.3
+20250531,Graca Bila,Engenharia Telecomunicacoes,4,21,M,14.2
+20251463,Isabel Bila,Engenharia Telecomunicacoes,4,21,M,4.3
+20259435,Ana Armando,Engenharia Informatica,3,24,M,15.7
+20254960,Graca Muianga,Engenharia Telecomunicacoes,2,18,M,7.5
+20253703,Paulo Jose,Engenharia Telecomunicacoes,1,20,F,13.3
+20250451,Isabel Uamusse,Engenharia Mecanica,1,25,M,15.8
+20255595,Ana Cossa,Engenharia Mecanica,2,24,F,11.8
+20253799,Amelia Jose,Engenharia Electronica,4,25,M,14.3
+20256090,Helena Uamusse,Engenharia Civil,2,18,M,15.9
+20251312,Tomas Mario,Engenharia Mecanica,4,24,M,10.4
+20252936,Teresa Augusto,Engenharia Electronica,4,27,F,14.7
+ABC123,Zita Langa,Engenharia Civil,2,20,F,11.0
+20252191,Carlos Armando,Engenharia Mecanica,2,19,M,9.8
+20258755,Hilario Chissano,Engenharia Telecomunicacoes,2,23,M,10.1
+20259962,Teresa Mabunda,Engenharia de Redes,4,27,M,15.6
+20252315,Sonia Muianga,Engenharia Civil,2,25,M,13.4
+20250953,Orlando Muianga,Engenharia Mecanica,1,23,F,9.2
+20253141,Armando Langa,Engenharia de Redes,2,18,F,9.7
+20253565,Rui Tembe,Engenharia Civil,2,21,M,17.1
+20258696,Luisa Jose,Engenharia Informatica,1,21,M,10.4
+20258939,Zita Sitoe,Engenharia Telecomunicacoes,1,18,M,11.1
+20251331,Amelia Nhaca,Engenharia Telecomunicacoes,1,21,M,10.5
+20250266,Paulo Chissano,Engenharia Mecanica,2,18,F,14.4
+20253737,Dulce Augusto,Engenharia Informatica,1,24,F,20
+20254198,Carlos Tembe,Engenharia Informatica,4,22,F,15.0
+20258868,Orlando Mabunda,Engenharia de Redes,2,24,F,13.8
+20258664,Amelia Cossa,Engenharia Telecomunicacoes,4,22,M,16.8
+20258636,Eduardo Bila,Engenharia Telecomunicacoes,4,26,F,18.2
+20255675,Helena Bila,Engenharia Informatica,3,21,F,16.5
+20250143,Paulo Alberto,Engenharia Informatica,1,20,M,11.2
+20259967,Fatima Uamusse,Engenharia Mecanica,4,22,F,14.7
+20259999,Ana Manuel,Engenharia Civil,5,20,F,14.5
+20253579,Isabel Chissano,Engenharia Informatica,1,18,F,15.0
+20254292,Carlos Cossa,Engenharia de Redes,3,24,M,12.1
+20250595,Amelia Augusto,Engenharia Civil,1,22,F,12.9
+20259100,Marta Langa,Engenharia Telecomunicacoes,4,23,F,14.4
+20259964,Ana Jose,Engenharia Electronica,4,24,M,10.0
+20251821,Teresa Mario,Engenharia Informatica,1,18,F,17.0
+20258579,Armando Langa,Engenharia Civil,4,22,F,10.3
+20251285,Rui Uamusse,Engenharia Mecanica,2,19,M,12.9
+20255048,Carlos Matsinhe,Engenharia Electronica,2,22,M,13.9
+20251497,Helena Chissano,Engenharia Civil,1,19,M,16.1
+20259998,Rui Cossa,Engenharia Civil,2,20,X,14.5
+20255316,Helena Paulo,Engenharia Telecomunicacoes,4,27,F,7.3
+20258186,Luisa Jose,Engenharia Telecomunicacoes,2,21,M,13.9
+20258479,Orlando Chissano,Engenharia Telecomunicacoes,3,18,M,14.7
+20257226,Ana Muianga,Engenharia de Redes,4,21,M,6.8
+20259675,Tomas Nhaca,Engenharia Civil,4,25,F,15.4
+20259994,Tomas Nhaca,Engenharia Civil,2,20,M,-3.0
+20257465,Ana Bila,Engenharia Mecanica,1,24,F,17.5
+20256235,Marta Muianga,Engenharia de Redes,3,24,F,13.9
+20252355,Ana Carlos,Engenharia Informatica,2,19,M,9.5
+20259613,Isabel Mario,Engenharia Telecomunicacoes,4,27,M,6.0
+20258727,Zita Jose,Engenharia Telecomunicacoes,3,22,F,6.3
+20257951,Graca Manuel,Engenharia Informatica,2,20,M,14.4
+20256963,Neusa Muianga,Engenharia de Redes,2,19,F,11.1
+20259773,Zita Armando,Engenharia Telecomunicacoes,1,23,M,11.2
+20258417,Paulo Langa,Engenharia Electronica,3,23,M,6.4
+20257181,Nelson Carlos,Engenharia Mecanica,2,23,F,17.1
+20253094,Bento Muianga,Engenharia Mecanica,3,25,M,13.4
+20259844,Orlando Nhaca,Engenharia de Redes,4,26,F,8.8
+20256000,Bento Armando,Engenharia Telecomunicacoes,2,25,M,15.2
+20251826,Paulo Manuel,Engenharia Mecanica,1,21,F,12.5
+20255252,Paulo Carlos,Engenharia Telecomunicacoes,3,21,M,10.4
+20254595,Rui Langa,Engenharia Telecomunicacoes,1,22,F,15.6
+20253275,Helena Mario,Engenharia Telecomunicacoes,3,24,F,16.2
+20254589,Samuel Matsinhe,Engenharia Informatica,2,19,M,15.7
+20257222,Neusa Tembe,Engenharia Telecomunicacoes,1,20,M,13.2
+20259064,Carlos Mario,Engenharia Civil,2,24,F,8.0
+20250491,Carlos Mario,Engenharia Telecomunicacoes,3,21,F,15.4
+20258536,Hilario Machava,Engenharia Telecomunicacoes,4,17,M,15.8
+20254357,Teresa Cossa,Engenharia Informatica,2,25,F,8.4
+20251887,Teresa Matsinhe,Engenharia Civil,4,23,F,14.0
+20257676,Rui Alberto,Engenharia de Redes,4,17,F,9.5
+20258442,Joao Muianga,Engenharia Electronica,1,18,F,11.2
+20255751,Samuel Nhaca,Engenharia Informatica,3,18,M,9.8
+20258050,Ana Muianga,Engenharia Telecomunicacoes,3,23,M,12.2
+20259215,Luisa Chissano,Engenharia Civil,1,22,M,15.2
+20250633,Eduardo Bila,Engenharia Electronica,4,22,F,12.1
+20256485,Marta Mario,Engenharia Mecanica,3,21,M,11.6
+20256865,Paulo Mario,Engenharia Civil,2,24,M,13.2
+20253994,Celeste Langa,Engenharia Civil,4,23,M,12.4
+20255626,Fatima Sitoe,Engenharia Civil,4,24,F,15.1
+20254224,Carlos Uamusse,Engenharia Electronica,3,22,M,7.7
+20252408,Isabel Muianga,Engenharia Informatica,3,19,F,8.3
+20252969,Teresa Sitoe,Engenharia Electronica,1,22,F,12.1
+20256247,Luisa Mario,Engenharia Informatica,3,20,M,13.2
+20259585,Fatima Armando,Engenharia Mecanica,4,24,F,11.7
+20258374,Helena Paulo,Engenharia Mecanica,4,24,F,11.9
+20252470,Celeste Mario,Engenharia Mecanica,3,22,F,10.6
+20252832,Eduardo Uamusse,Engenharia Informatica,4,18,F,14.7
+20251035,Hilario Manuel,Engenharia Electronica,4,25,F,10.7
+20252302,Neusa Matsinhe,Engenharia de Redes,2,22,F,10.5
+20256712,Marta Jose,Engenharia Mecanica,2,17,M,13.1
+20252935,Amelia Nhaca,Engenharia Telecomunicacoes,1,21,M,11.4
+20256546,Orlando Carlos,Engenharia Informatica,1,25,F,15.8
+20252613,Dulce Armando,Engenharia Electronica,1,17,M,8.6
+20251166,Marta Nhaca,Engenharia Mecanica,1,17,F,10.9
+20251373,Teresa Matsinhe,Engenharia Telecomunicacoes,2,20,M,11.2
+20258686,Armando Chissano,Engenharia Electronica,4,17,F,13.0
+20250877,Amelia Langa,Engenharia Telecomunicacoes,2,19,F,18.1
+20250424,Teresa Sitoe,Engenharia Civil,3,22,M,13.5
+20258280,Celeste Langa,Engenharia Informatica,1,17,M,17.0
+20250816,Fatima Mabunda,Engenharia de Redes,3,21,M,14.5
+20254826,Isabel Chissano,Engenharia Telecomunicacoes,2,18,M,12.6
+20252093,Samuel Augusto,Engenharia de Redes,2,23,F,12.4
+20257150,Amelia Augusto,Engenharia Telecomunicacoes,4,26,F,11.1
+20250697,Neusa Bila,Engenharia Telecomunicacoes,4,22,M,14.9
+20250905,Ana Nhaca,Engenharia Electronica,3,23,F,15.8
+20258903,Bento Langa,Engenharia Informatica,3,22,F,10.1
+20251289,Orlando Armando,Engenharia Telecomunicacoes,3,23,M,16.7
+20252325,Carlos Matsinhe,Engenharia de Redes,4,26,M,12.8
+20256087,Amelia Chissano,Engenharia Mecanica,4,22,M,15.6
+20252565,Luisa Mabunda,Engenharia Mecanica,4,23,F,11.5
+20252093,Samuel Augusto,Engenharia de Redes,2,23,F,12.4
+20255866,Celeste Muianga,Engenharia Telecomunicacoes,1,21,F,13.6
+20253551,Eduardo Mario,Engenharia Electronica,1,20,F,17.0
+20258059,Zita Chissano,Engenharia Informatica,1,18,F,8.2
+20253646,Eduardo Cossa,Engenharia Mecanica,1,22,F,16.6
+20258033,Samuel Matsinhe,Engenharia Civil,3,17,F,12.0
+20257646,Amelia Langa,Engenharia Civil,2,24,F,11.4
+20258250,Marta Uamusse,Engenharia Electronica,2,24,F,15.3
+20254293,Neusa Mabunda,Engenharia Civil,3,26,F,18.4
+20257535,Helena Matsinhe,Engenharia Civil,2,21,F,7.0
+20250206,Neusa Machava,Engenharia Informatica,2,20,M,10.9
+20256488,Nelson Carlos,Engenharia de Redes,1,17,M,14.5
+20253239,Orlando Mabunda,Engenharia Mecanica,4,19,M,13.1
+20254222,Bento Manuel,Engenharia Mecanica,2,20,F,15.0
+20254244,Hilario Langa,Engenharia Informatica,2,21,F,7.8
+20257905,Paulo Jose,Engenharia Mecanica,1,19,F,11.1
+20259554,Sonia Uamusse,Engenharia Telecomunicacoes,2,19,F,6.3
+20250336,Celeste Alberto,Engenharia Civil,3,25,M,7.3
+20256737,Tomas Manuel,Engenharia de Redes,1,24,M,13.6
+20250816,Fatima Mabunda,Engenharia de Redes,3,21,M,14.5
+20254301,Nelson Armando,Engenharia Electronica,1,19,M,14.5
+20259993,Graca Sitoe,Engenharia Civil,2,150,F,12.0
+20259997,Luisa Bila,Engenharia Civil,2,20,F,25.0
+20253757,Ana Uamusse,Engenharia Civil,3,20,M,8.6
+20250962,Neusa Carlos,Engenharia de Redes,3,29,M,9.8
+20253511,Neusa Armando,Engenharia Mecanica,2,17,F,10.6
+20255869,Hilario Uamusse,Engenharia Electronica,3,22,F,9.8
+20259996,Paulo Tembe,Engenharia Civil,2,abc,M,11.0
+20253568,Dulce Sitoe,Engenharia Electronica,4,24,F,16.4
+20259195,Nelson Paulo,Engenharia Informatica,1,22,M,7.8
+20252988,Graca Paulo,Engenharia Civil,4,25,F,18.2
+20252032,Armando Tembe,Engenharia Civil,1,21,F,14.0
+20250945,Armando Matsinhe,Engenharia Telecomunicacoes,4,26,F,8.6
+20251369,Celeste Uamusse,Engenharia Civil,4,23,F,12.5
+20250942,Celeste Cossa,Engenharia de Redes,1,22,F,15.2
+20253613,Hilario Uamusse,Engenharia Informatica,3,22,M,13.8
+20253685,Luisa Paulo,Engenharia Mecanica,1,17,M,11.4
+20252181,Sonia Armando,Engenharia Mecanica,1,22,F,8.1
+20257016,Amelia Sitoe,Engenharia Electronica,3,24,M,12.1
+20253610,Paulo Carlos,Engenharia Telecomunicacoes,1,17,M,14.3
+20256616,Zita Tembe,Engenharia Informatica,3,23,M,16.4
+20258771,Paulo Cossa,Engenharia Mecanica,1,21,F,11.8
+20257009,Ana Uamusse,Engenharia Electronica,3,22,M,14.5
+20253623,Bento Carlos,Engenharia Mecanica,1,19,F,10.2
+20254877,Helena Langa,Engenharia Telecomunicacoes,2,18,F,16.2
+20258983,Joao Uamusse,Engenharia Telecomunicacoes,2,24,M,8.4
+20255400,Dulce Tembe,Engenharia Electronica,2,21,F,16.4
+20257916,Armando Augusto,Engenharia Informatica,3,23,M,15.5
+20259990,Linha,Incompleta
